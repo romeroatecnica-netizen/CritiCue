@@ -1,0 +1,6 @@
+{
+  "name": "CritiCue — Logical Fallacies, Bias & Critical Argumentation Trainer",
+  "description": "Train your critical ear to spot logical fallacies, cognitive biases, and rhetorical tricks in debates, news, ads, and everyday arguments, and practice constructive counter-arguments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
